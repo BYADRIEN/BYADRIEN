@@ -33,4 +33,4 @@ J’ai un intérêt particulier pour les projets e-commerce et la gestion de cli
 ---
 
 ## 🔝 Top Contributed Repo
-[Laboh des thés](https://github.com/BYADRIEN/Labo-th-s) – Site de vente de thé en ligne
+[Labo des thés](https://github.com/BYADRIEN/Labo-th-s) – Site de vente de thé en ligne
