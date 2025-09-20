@@ -1,16 +1,36 @@
-## Hi there 👋
+# Salut, je suis Adrien 👋
+Développeur Web | Laravel, PHP, Angular, Vue.js, MySQL  
 
-<!--
-**BYADRIEN/BYADRIEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## À propos de moi
+Je crée des sites web et applications performantes et esthétiques.  
+Toujours en apprentissage et en expérimentation de nouvelles technologies.  
+J’ai un intérêt particulier pour les projets e-commerce et la gestion de clients.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, Angular, Vue.js  
+**Backend & DB:** PHP, Laravel, MySQL  
+**Outils:** Git, GitHub, VS Code, Composer  
+
+---
+
+## 🌐 Réseaux sociaux
+[LinkedIn](#) | [Portfolio](#) | ✉️ selleadrien@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYADRIEN&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=BYADRIEN&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repo
+[Laboh des thés](https://github.com/BYADRIEN/Labo-th-s) – Site de vente de thé en ligne
