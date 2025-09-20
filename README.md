@@ -6,7 +6,7 @@
 ---
 
 ## À propos de moi
-Diplômé en développement web.  
+Diplômé en **BES de Web Development à Namur Cadet**.  
 J’aime créer des **sites web et applications e-commerce** performants et esthétiques.  
 Toujours en apprentissage et en expérimentation de nouvelles technologies.  
 Passionné par le code propre et maintenable, et par les frameworks modernes frontend et backend.
@@ -47,7 +47,7 @@ Passionné par le code propre et maintenable, et par les frameworks modernes fro
 ---
 
 ## 🌐 Réseaux sociaux
-[LinkedIn](#) | [Portfolio](#) | ✉️ selleadrien@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/adrien-selle-a9a181295/) | [Portfolio](#) | ✉️ selleadrien@gmail.com  
 
 ---
 
