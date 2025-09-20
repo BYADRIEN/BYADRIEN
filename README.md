@@ -47,7 +47,7 @@ Passionné par le code propre et maintenable, et par les frameworks modernes fro
 ---
 
 ## 🌐 Réseaux sociaux
-[LinkedIn](https://www.linkedin.com/in/adrien-selle-a9a181295/) | [Portfolio](#) | ✉️ selleadrien@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/adrien-selle-a9a181295/) | [Portfolio](https://byadrien.github.io/Adrien-portfolio-web/) | ✉️ selleadrien@gmail.com  
 
 ---
 
