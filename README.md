@@ -37,7 +37,7 @@ Passionné par le code propre et maintenable, et par les frameworks modernes fro
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-> Tu peux ajouter d’autres badges facilement en suivant le même format : `![Nom](lien_shields.io)`
+
 
 ---
 
